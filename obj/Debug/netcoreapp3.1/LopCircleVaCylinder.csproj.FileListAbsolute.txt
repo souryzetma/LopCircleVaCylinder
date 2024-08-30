@@ -1,0 +1,13 @@
+D:\baitap\LopCircleVaCylinder\bin\Debug\netcoreapp3.1\LopCircleVaCylinder.exe
+D:\baitap\LopCircleVaCylinder\bin\Debug\netcoreapp3.1\LopCircleVaCylinder.deps.json
+D:\baitap\LopCircleVaCylinder\bin\Debug\netcoreapp3.1\LopCircleVaCylinder.runtimeconfig.json
+D:\baitap\LopCircleVaCylinder\bin\Debug\netcoreapp3.1\LopCircleVaCylinder.runtimeconfig.dev.json
+D:\baitap\LopCircleVaCylinder\bin\Debug\netcoreapp3.1\LopCircleVaCylinder.dll
+D:\baitap\LopCircleVaCylinder\bin\Debug\netcoreapp3.1\LopCircleVaCylinder.pdb
+D:\baitap\LopCircleVaCylinder\obj\Debug\netcoreapp3.1\LopCircleVaCylinder.csprojAssemblyReference.cache
+D:\baitap\LopCircleVaCylinder\obj\Debug\netcoreapp3.1\LopCircleVaCylinder.AssemblyInfoInputs.cache
+D:\baitap\LopCircleVaCylinder\obj\Debug\netcoreapp3.1\LopCircleVaCylinder.AssemblyInfo.cs
+D:\baitap\LopCircleVaCylinder\obj\Debug\netcoreapp3.1\LopCircleVaCylinder.csproj.CoreCompileInputs.cache
+D:\baitap\LopCircleVaCylinder\obj\Debug\netcoreapp3.1\LopCircleVaCylinder.dll
+D:\baitap\LopCircleVaCylinder\obj\Debug\netcoreapp3.1\LopCircleVaCylinder.pdb
+D:\baitap\LopCircleVaCylinder\obj\Debug\netcoreapp3.1\LopCircleVaCylinder.genruntimeconfig.cache
